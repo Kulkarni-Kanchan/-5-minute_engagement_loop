@@ -1,50 +1,84 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🎨 Toddler Drawing Adventure
 
-## Get started
+A fun and engaging drawing activity designed for children aged **3 years and above**. This project creates a simple 5-minute engagement loop where toddlers can freely draw, explore colors, and express creativity in a safe and interactive environment.
 
-1. Install dependencies
+## 🌟 Project Overview
 
-   ```bash
-   npm install
-   ```
+The activity encourages young children to interact with a digital canvas using simple touch gestures. Toddlers can draw shapes, lines, and colorful doodles while receiving immediate visual feedback. The experience is designed to maintain attention for approximately **5 minutes**, balancing creativity, exploration, and enjoyment.
 
-2. Start the app
+## 🎯 Why a 3-Year-Old Would Enjoy It
 
-   ```bash
-   npx expo start
-   ```
+* 🖍️ Simple and intuitive interactions
+* 🌈 Bright and colorful drawing experience
+* ✨ Instant visual feedback
+* 🎨 Freedom to create without rules
+* 👆 Touch-based interaction suitable for small children
+* 🎉 Encourages creativity and imagination
 
-In the output, you'll find options to open the app in a
+## 🔄 5-Minute Engagement Loop
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Minute 1
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+The child begins exploring the canvas and discovers that touching the screen creates colorful drawings.
 
-## Get a fresh project
+### Minute 2–3
 
-When you're ready, run:
+The child experiments with different drawing patterns, shapes, and movements while enjoying the visual feedback.
 
-```bash
-npm run reset-project
+### Minute 4
+
+The activity introduces encouragement messages or playful prompts to maintain engagement.
+
+### Minute 5
+
+The child completes their artwork and views the finished drawing.
+
+## ⏰ What Happens When Time Runs Out?
+
+When the 5-minute session ends:
+
+* 🎉 A celebration screen appears.
+* ⭐ The child receives positive encouragement.
+* 🖼️ Their artwork is displayed as a completed masterpiece.
+* 🔄 The child can start a new drawing session.
+
+This creates a natural stopping point while motivating the child to return and play again.
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Touch Event Handling
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+```markdown
+![Home Screen](screenshots/home.png)
+![Drawing Screen](screenshots/drawing.png)
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Learning Benefits
 
-## Learn more
+* Improves fine motor skills
+* Enhances creativity and imagination
+* Encourages independent exploration
+* Develops hand-eye coordination
+* Provides positive reinforcement
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📂 Project Structure
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```text
+ToddlerDrawingApp/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
 
-## Join the community
+⭐ Designed to make creativity fun, simple, and engaging for young learners.
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
